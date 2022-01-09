@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HimanshT
 - 👀 I’m interested in competetive coding and web development
-- 🌱 I’m currently learning web development
+- 🌱 I’m a full stack web developer
 - 💞️ I’m looking to collaborate on projects with web developers
 
 <!---
